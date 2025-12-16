@@ -72,6 +72,5 @@ This keeps configuration centralized and helps maintain a clean codebase.
    flutter pub get
 3. Launch the app:
 
-bash
-Copy code
+```bash
 flutter run
