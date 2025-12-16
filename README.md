@@ -40,11 +40,12 @@ This app is intentionally simple to highlight:
 
 ## 📂 Project Structure (Simplified)
 lib/
-|───custom_gradient_container.dart 
-├───dice_roll_state_change.dart 
-|───dice_roll.dart
-├───home.dary
+├── custom_gradient_container.dart
+├── dice_roll_state_change.dart
+├── dice_roll.dart
+├── home.dart
 └── main.dart
+
 
 -
 
@@ -60,6 +61,7 @@ project_root/
 └── pubspec.yaml
 
 
+
 This keeps configuration centralized and helps maintain a clean codebase.
 
 ---
@@ -72,6 +74,5 @@ This keeps configuration centralized and helps maintain a clean codebase.
    flutter pub get
 3. Launch the app:
 
-bash
-Copy code
+```bash
 flutter run
